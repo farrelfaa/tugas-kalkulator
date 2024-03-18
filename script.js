@@ -18,9 +18,9 @@ function hitung() {
         case "bagi":
             hasil = num1 / num2;
             break;
-        // case "modulus":
-        //     hasil = num1 % num2;
-        //     break;
+        case "modulus":
+            hasil = num1 % num2;
+            break;
         default:
             hasil = "Operasi tidak valid";
     }
