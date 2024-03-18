@@ -12,9 +12,9 @@ function hitung() {
         case "kurang":
             hasil = num1 - num2;
             break;
-        // case "kali":
-        //     hasil = num1 * num2;
-        //     break;
+        case "kali":
+            hasil = num1 * num2;
+            break;
         // case "bagi":
         //     hasil = num1 / num2;
         //     break;
