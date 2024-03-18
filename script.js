@@ -15,9 +15,9 @@ function hitung() {
         case "kali":
             hasil = num1 * num2;
             break;
-        // case "bagi":
-        //     hasil = num1 / num2;
-        //     break;
+        case "bagi":
+            hasil = num1 / num2;
+            break;
         // case "modulus":
         //     hasil = num1 % num2;
         //     break;
